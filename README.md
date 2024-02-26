@@ -7,14 +7,18 @@ Yellow Pages Interactive Interface is a Python-based mini application equipped w
 **CRUD Features**
 
 **Create**
+
 Add new businesses and their information like addresses and phone numbers based on their industries. You can also add new industries.
 
 **Read**
+
 View a list of businesses in the Yellow Pages
 
 **Update**
+
 Modify business details in the system based on specific conditions
 
 **Delete**
+
 Remove business tickets or those that need to be deleted based on specific conditions
 
